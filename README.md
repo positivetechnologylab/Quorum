@@ -141,6 +141,6 @@ The results of the execution are saved as a pickle file in the `results/` direct
 
 The framework supports realistic noise simulation mimicking IBM's Brisbane quantum computer specifications. This can be enabled in the main script by uncommenting the appropriate simulator configuration.
 
-## Acknowledgements
+## Copyright
 
-[Add acknowledgements if needed]
+Copyright © 2025 Positive Technology Lab. All rights reserved. For permissions, contact ptl@rice.edu.
