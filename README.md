@@ -55,8 +55,8 @@ Quorum/
 git clone https://github.com/positivetechnologylab/Quorum.git
 cd Quorum
 
-# Install dependencies
-pip install numpy pandas scikit-learn qiskit qiskit_aer matplotlib
+# Install dependencies from requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
